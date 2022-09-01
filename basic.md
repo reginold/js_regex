@@ -33,3 +33,9 @@ console.log(text.match(regex1));
     - Flag
     - Top regular expressions
     - Cheat Sheet  
+
+### Control Characters
+- \t tab
+- \v vertical tab
+- \n newline
+- \r carriage return
